@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "This project contains all the examples I created with the Multiplayer Combat Editor as a learning tool for the users.",
+	"Modules": [
+		{
+			"Name": "MCE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "MultiplayerCombatEditor",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/78d2cd748d1446309789b64fd3b70742"
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
+}
