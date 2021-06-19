@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.0",
+	"FriendlyName": "Multiplayer Combat Editor",
+	"Description": "A set of tools to prototype combat, stats, skills, actions and runtime modifiers in your game.",
+	"Category": "Blueprints",
+	"CreatedBy": "Elliot Yun",
+	"CreatedByURL": "http://yun-kun.wixsite.com/usingmce",
+	"DocsURL": "http://yun-kun.wixsite.com/usingmce",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/78d2cd748d1446309789b64fd3b70742",
+	"SupportURL": "https://forums.unrealengine.com/showthread.php?135276-Multiplayer-Combat-Editor",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MultiplayerCombatEditor",
+			"Type": "DeveloperTool",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}
