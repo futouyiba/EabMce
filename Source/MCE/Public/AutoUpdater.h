@@ -227,6 +227,39 @@ public:
     // still thinking whether to modify it in TS or CPP...
 };
 
+// UINTERFACE()
+// class UAbilitySystemInterface : public UInterface
+// {
+//     GENERATED_UINTERFACE_BODY()
+// };
+//
+// class MCE_API IAbilitySystemInterface
+// {
+//     GENERATED_IINTERFACE_BODY()
+//
+//     virtual void SetAnimationState() const = 0;
+// };
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * ==================================================================================================================
+ * Write definitions before this
+ * and dummy after this.
+ * ==================================================================================================================
+ */
+
+
 UCLASS()
 class UDummy : public UObject
 {
